@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h1>Youtube Clone App</h1>
     <header>
     <SearchBar
       @on-keyword-enter="onKeywordEnter"
